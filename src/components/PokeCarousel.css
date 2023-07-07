@@ -1,0 +1,13 @@
+
+.PokeCarousel {
+	display: flex;
+	gap: 20px;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+button {
+	min-width: 100px;
+	height: 30px;
+	margin: 8px;
+}
